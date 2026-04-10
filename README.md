@@ -1,6 +1,6 @@
 # Hi, I'm Shubh Thadani
 
-🎓 B.Tech Core, 1st Year Student at VIT Bhopal
+🎓 B.Tech CSE Core , 1st Year Student at VIT Bhopal
 
 💻 Currently learning programming and problem solving
 
